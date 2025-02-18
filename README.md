@@ -53,6 +53,6 @@ The dashboard contains the following visualizations:
 - **AI-Powered Forecasting:** Predict future sales trends using Power BI’s AI capabilities.
 
 ## Support
-Follow my Linkedin page - 
+Follow my Linkedin page - https://www.linkedin.com/in/soumyaranjan-paikray/
 
 
