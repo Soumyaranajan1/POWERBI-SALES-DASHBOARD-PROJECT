@@ -18,9 +18,21 @@ The dashboard is built using the following datasets:
 - **Customer Information:** Provides details on customer demographics and purchase history.
 - **Geographical Data:** Includes customer location and regional sales insights.
 
+## Graph Details
+The dashboard contains the following visualizations:
+- **Total Revenue Chart:** A line chart displaying revenue trends over time.
+- **Sales by Category:** A bar chart showing sales performance for different product categories.
+- **Top Selling Products:** A ranked table highlighting the best-selling products.
+- **Geographical Sales Distribution:** A map visualizing sales performance by region.
+- **Customer Demographics:** A pie chart illustrating customer distribution by age group and location.
+- **Monthly Sales Trends:** A column chart tracking monthly revenue performance.
+- **Order Volume Over Time:** A trend graph showing the number of orders processed over different periods.
+- **Profit Margin Analysis:** A scatter plot depicting profit margins across different product categories.
+- **Customer Retention Rate:** A KPI card displaying the percentage of repeat customers.
+
 ## Download Dataset
-- **Order Data:** https://github.com/Soumyaranajan1/POWERBI-SALES-DASHBOARD-PROJECT/blob/main/Orders.csv
-- **Order Details:** https://github.com/Soumyaranajan1/POWERBI-SALES-DASHBOARD-PROJECT/blob/main/Details.csv
+- **Order Data:** 
+- **Order Details:** 
 
 ## Installation & Usage
 1. **Download and Install Power BI Desktop:**
@@ -41,6 +53,6 @@ The dashboard is built using the following datasets:
 - **AI-Powered Forecasting:** Predict future sales trends using Power BI’s AI capabilities.
 
 ## Support
-For any queries or issues, feel free to reach out to spaikaray24@gmail.com.
+Follow my Linkedin page - 
 
 
