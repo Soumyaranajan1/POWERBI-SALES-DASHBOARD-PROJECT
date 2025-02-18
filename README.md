@@ -31,8 +31,8 @@ The dashboard contains the following visualizations:
 - **Customer Retention Rate:** A KPI card displaying the percentage of repeat customers.
 
 ## Download Dataset
-- **Order Data:** 
-- **Order Details:** 
+- **Order Data:** https://github.com/Soumyaranajan1/POWERBI-SALES-DASHBOARD-PROJECT/blob/main/Orders.csv
+- **Order Details:** https://github.com/Soumyaranajan1/POWERBI-SALES-DASHBOARD-PROJECT/blob/main/Details.csv
 
 ## Installation & Usage
 1. **Download and Install Power BI Desktop:**
